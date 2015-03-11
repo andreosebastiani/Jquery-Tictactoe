@@ -4,6 +4,11 @@
     margin-left: auto;
 }
 
+
+.header {
+padding-right: 370px;
+}
+
 .italic {
     font-style: italic;
     text-decoration: underline;
